@@ -1,2 +1,2 @@
 # Mobile
-Mobile apps React Native
+Dokumentasi Project Mobile Apps Menggunakan Bahasa Pemograman React Native & Fluter

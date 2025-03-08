@@ -2,11 +2,7 @@
 
 
 **✨ Fitur Utama ✨**
-
-*   **Jelajahi Katalog:** Temukan ribuan [jenis item di API store Anda, contoh: buku, baju, ] dari fake storke dengan mudah.
-*   **Pencarian Cepat & Pintar:**  Cari [item] berdasarkan judul, penulis, kategori, atau kata kunci lainnya.
-*   **Detail Lengkap:** Lihat informasi detail tentang setiap [item], termasuk deskripsi, gambar, harga (jika ada), dan rating.
-*   **Favorit & Koleksi:** Simpan [item] favorit Anda ke daftar pribadi untuk akses cepat dan mudah.
+*   **Detail Lengkap:** Lihat informasi detail tentang setiap item, termasuk deskripsi, gambar, harga, dan rating.
 *   **UI/UX yang Intuitif:**  Desain antarmuka yang bersih, modern, dan mudah digunakan di perangkat Android, IOS, dan Website.
 
 

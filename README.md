@@ -33,12 +33,12 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di perangkat lokal An
 
 4.  **Jalankan Aplikasi di Android:**
     ```bash
-    npx react-native run-android
+    npx react-native 
     ```
 
 5.  **Jalankan Aplikasi di iOS:**
     ```bash
-    npx react-native run-ios atau npx start
+    npx react-native run-ios 
     ```
 
 **🧑‍💻 Cara Menggunakan Aplikasi**

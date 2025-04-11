@@ -66,5 +66,3 @@ Kontribusi sangat dipersilakan! Jika Anda ingin berkontribusi pada proyek ini, b
 ---
 
 Dibuat dengan ❤️ oleh Ikhwan Ramadhan
-
-**https://github.com/IngsR**

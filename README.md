@@ -9,7 +9,7 @@
 **🛠️ Teknologi yang Digunakan**
 
 *   **React Native:** Kerangka kerja utama untuk membangun aplikasi lintas platform (iOS & Android)
-*   **[Nama API Store Anda]:** Sumber data utama untuk [jenis item di aplikasi Anda].
+*   **[Fake Store APi]:** Sumber data utama untuk Product penjualan.
 *   **[React Navigation atau sejenisnya]:**  Untuk navigasi antar layar dalam aplikasi.
 *   **[Axios]:** Untuk melakukan permintaan HTTP ke [Halaman Product].
 *   **[Library Ikon]:** (React Native Vector Icons) untuk ikon yang indah.
